@@ -1,0 +1,1 @@
+const EnumAppType = { DL: 'DL',TK:'TK'};
