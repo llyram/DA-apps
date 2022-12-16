@@ -1,3 +1,6 @@
 [submodule "DA-Test-App"]
 	path = DA-Test-App
 	url = https://github.com/llyram/DA-Test-App.git
+[submodule "EmployeeCRUD"]
+	path = EmployeeCRUD
+	url = https://github.com/llyram/EmployeeCRUD.git
